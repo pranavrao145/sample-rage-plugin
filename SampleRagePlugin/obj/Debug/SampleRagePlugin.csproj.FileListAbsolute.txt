@@ -1,0 +1,9 @@
+C:\Users\prana\Programming\SampleRagePlugin\SampleRagePlugin\bin\Debug\SampleRagePlugin.dll
+C:\Users\prana\Programming\SampleRagePlugin\SampleRagePlugin\bin\Debug\SampleRagePlugin.pdb
+C:\Users\prana\Programming\SampleRagePlugin\SampleRagePlugin\bin\Debug\RagePluginHookSDK.dll
+C:\Users\prana\Programming\SampleRagePlugin\SampleRagePlugin\bin\Debug\RagePluginHookSDK.xml
+C:\Users\prana\Programming\SampleRagePlugin\SampleRagePlugin\obj\Debug\SampleRagePlugin.csprojAssemblyReference.cache
+C:\Users\prana\Programming\SampleRagePlugin\SampleRagePlugin\obj\Debug\SampleRagePlugin.csproj.CoreCompileInputs.cache
+C:\Users\prana\Programming\SampleRagePlugin\SampleRagePlugin\obj\Debug\SampleRagePlugin.csproj.CopyComplete
+C:\Users\prana\Programming\SampleRagePlugin\SampleRagePlugin\obj\Debug\SampleRagePlugin.dll
+C:\Users\prana\Programming\SampleRagePlugin\SampleRagePlugin\obj\Debug\SampleRagePlugin.pdb
